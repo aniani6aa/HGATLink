@@ -1,0 +1,9 @@
+numpy
+dgl
+matplotlib
+pandas
+scipy
+scikit-learn
+torch
+collections
+torch_geometric

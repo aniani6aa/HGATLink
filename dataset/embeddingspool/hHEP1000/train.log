@@ -1,0 +1,19 @@
+INFO:root:seed: 123
+INFO:root:device: cuda:1
+INFO:root:save_dir: log/hHEP1000_0F
+INFO:root:save_id: 9
+INFO:root:data_name: hHEP1000
+INFO:root:data_path: /workspace/sy/GMFGRN-main/data_evaluation/Specific Dataset/hHEP/TFs+1000/BL--ExpressionData.csv
+INFO:root:is_time: False
+INFO:root:is_h5: False
+INFO:root:gcn_dropout: 0.0
+INFO:root:gcn_agg_units: 3840
+INFO:root:gcn_out_units: 256
+INFO:root:train_max_iter: 20000
+INFO:root:train_log_interval: 100
+INFO:root:train_grad_clip: 0.1
+INFO:root:train_lr: 0.01
+INFO:root:class_rating: 15
+INFO:root:emb_path: ../embeddingspool/hHEP1000/
+INFO:root:best_iter_idx: 20000, best_MSE: 0.03046716660815291
+INFO:root:Cost Time: 1868.4651651382446

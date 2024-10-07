@@ -1,0 +1,36 @@
+INFO:root:seed: 123
+INFO:root:device: cuda:0
+INFO:root:save_dir: log/mHSC-L_MQ
+INFO:root:save_id: 14
+INFO:root:data_name: mHSC-L
+INFO:root:data_path: /workspace/sy/GMFGRN-main/data_evaluation/Specific Dataset/mHSC-L/TFs+500/BL--ExpressionData.csv
+INFO:root:is_time: False
+INFO:root:is_h5: False
+INFO:root:gcn_dropout: 0.0
+INFO:root:gcn_agg_units: 3840
+INFO:root:gcn_out_units: 256
+INFO:root:train_max_iter: 20000
+INFO:root:train_log_interval: 100
+INFO:root:train_grad_clip: 0.1
+INFO:root:train_lr: 0.01
+INFO:root:class_rating: 15
+INFO:root:emb_path: ../embeddingspool/mHSC-L/
+INFO:root:seed: 123
+INFO:root:device: cuda:1
+INFO:root:save_dir: log/mHSC-L_WR
+INFO:root:save_id: 8
+INFO:root:data_name: mHSC-L
+INFO:root:data_path: /workspace/sy/GMFGRN-main/data_evaluation/Specific Dataset/mHSC-L/TFs+500/BL--ExpressionData.csv
+INFO:root:is_time: False
+INFO:root:is_h5: False
+INFO:root:gcn_dropout: 0.0
+INFO:root:gcn_agg_units: 3840
+INFO:root:gcn_out_units: 256
+INFO:root:train_max_iter: 20000
+INFO:root:train_log_interval: 100
+INFO:root:train_grad_clip: 0.1
+INFO:root:train_lr: 0.01
+INFO:root:class_rating: 15
+INFO:root:emb_path: ../embeddingspool/mHSC-L/
+INFO:root:best_iter_idx: 20000, best_MSE: 0.03838006051257253
+INFO:root:Cost Time: 1368.46680021286
