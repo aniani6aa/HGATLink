@@ -91,7 +91,7 @@ def main():
                  args.label_path,
                  args.divide_path,
                  TF_num=args.TF_num,
-                 gene_emb_path='./embeddings1/' + dataset_name + '/gene_embedding.npy',
+                 gene_emb_path='./embeddings/' + dataset_name + '/gene_embedding.npy',
                  gene_list_path=args.gene_list_path,
                  data_name=args.dataset_name, TF_random=args.TF_random)
 
